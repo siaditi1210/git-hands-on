@@ -136,8 +136,8 @@ gitk
 ## 5. Push to a Remote Repository
 
 ```powershell
-# Edit this line: my favorite color is red
-git commit -am "my favorite number is π"
+# Edit this line: my favorite number is π
+git commit -am "fix favorite number"
 
 git status                      # Branch is ahead
 
